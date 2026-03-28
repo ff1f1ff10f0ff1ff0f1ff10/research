@@ -20,6 +20,8 @@ LocationApi/
 winresume/
 .symcryptk
 symcryptk/
+.AcWinRT
+AcWinRT/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
